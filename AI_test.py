@@ -2,6 +2,9 @@
 
 # Importing the libraries
 
+# pip install 필요
+# numpy, torch install 안 하면 오류남.
+
 import numpy as np
 import random
 # 경험 리플레이를 실행할 때 다양한 배치로부터 샘플을 무작위로 가져와야 된다
